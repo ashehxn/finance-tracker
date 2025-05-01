@@ -84,7 +84,7 @@ A secure RESTful API for managing personal finances, tracking expenses, setting 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/SE1020-IT2070-OOP-DSA-25/project-ashehxn.git
+git clone https://github.com/ashehxn/finance-tracker.git
 ```
 
 2. Install dependencies
