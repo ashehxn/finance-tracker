@@ -1,0 +1,2 @@
+{"error":"Budget validation failed: amount: Amount must be a positive number","level":"error","message":"Server error during budget creation","timestamp":"2025-03-16T02:14:51.454Z","user":"67d57cf075a86d94430e95b2"}
+{"level":"error","message":"System settings not found during transaction creation","timestamp":"2025-03-16T06:19:13.834Z"}

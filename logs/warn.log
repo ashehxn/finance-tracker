@@ -1,0 +1,38 @@
+{"level":"warn","message":"Registration failed: Email (admin2@example.com) already exists","timestamp":"2025-03-09T13:44:43.963Z"}
+{"level":"warn","message":"Transaction deletion failed: Transaction not found (67be9056a146ea890a3fcfb2)","timestamp":"2025-03-10T05:02:40.082Z","user":"67bad469140f79544369eec4"}
+{"level":"warn","message":"Failed login attempt: Email (testuser@example.com) not found","timestamp":"2025-03-11T05:04:05.505Z"}
+{"level":"warn","message":"Failed login attempt: Email (testuser@example.com) not found","timestamp":"2025-03-11T05:04:05.522Z"}
+{"level":"warn","message":"Failed login attempt: Email (nonexistent@example.com) not found","timestamp":"2025-03-11T05:04:05.538Z"}
+{"level":"warn","message":"Registration failed: Email (admin@example.com) already exists","timestamp":"2025-03-11T05:17:50.228Z"}
+{"level":"warn","message":"Failed login attempt: Email (testuser@example.com) not found","timestamp":"2025-03-11T05:19:57.836Z"}
+{"level":"warn","message":"Failed login attempt: Email (testuser@example.com) not found","timestamp":"2025-03-11T05:19:57.852Z"}
+{"level":"warn","message":"Failed login attempt: Email (nonexistent@example.com) not found","timestamp":"2025-03-11T05:19:57.866Z"}
+{"level":"warn","message":"Failed login attempt: Email (testuser@example.com) not found","timestamp":"2025-03-11T05:22:26.548Z"}
+{"level":"warn","message":"Failed login attempt: Email (testuser@example.com) not found","timestamp":"2025-03-11T05:22:26.562Z"}
+{"level":"warn","message":"Failed login attempt: Email (nonexistent@example.com) not found","timestamp":"2025-03-11T05:22:26.578Z"}
+{"level":"warn","message":"Failed login attempt: Email (testuser@example.com) not found","timestamp":"2025-03-11T05:23:07.138Z"}
+{"level":"warn","message":"Failed login attempt: Email (testuser@example.com) not found","timestamp":"2025-03-11T05:23:07.153Z"}
+{"level":"warn","message":"Failed login attempt: Email (nonexistent@example.com) not found","timestamp":"2025-03-11T05:23:07.168Z"}
+{"level":"warn","message":"Failed login attempt: Email (testuser@example.com) not found","timestamp":"2025-03-11T05:24:27.018Z"}
+{"level":"warn","message":"Failed login attempt: Email (testuser@example.com) not found","timestamp":"2025-03-11T05:24:27.032Z"}
+{"level":"warn","message":"Failed login attempt: Email (nonexistent@example.com) not found","timestamp":"2025-03-11T05:24:27.047Z"}
+{"level":"warn","message":"Failed login attempt: Email (thusala@gmail.com) not found","timestamp":"2025-03-11T05:27:09.623Z"}
+{"level":"warn","message":"Failed login attempt: Email (testuser@example.com) not found","timestamp":"2025-03-11T05:29:37.763Z"}
+{"level":"warn","message":"Failed login attempt: Email (testuser@example.com) not found","timestamp":"2025-03-11T05:29:37.789Z"}
+{"level":"warn","message":"Failed login attempt: Email (nonexistent@example.com) not found","timestamp":"2025-03-11T05:29:37.802Z"}
+{"level":"warn","message":"Failed login attempt: Email (testuser@example.com) not found","timestamp":"2025-03-11T05:32:36.945Z"}
+{"level":"warn","message":"Failed login attempt: Email (testuser@example.com) not found","timestamp":"2025-03-11T05:32:36.971Z"}
+{"level":"warn","message":"Failed login attempt: Email (nonexistent@example.com) not found","timestamp":"2025-03-11T05:32:36.984Z"}
+{"level":"warn","message":"Failed login attempt: Email (testuser@example.com) not found","timestamp":"2025-03-11T05:33:31.786Z"}
+{"level":"warn","message":"Failed login attempt: Email (testuser@example.com) not found","timestamp":"2025-03-11T05:33:31.813Z"}
+{"level":"warn","message":"Failed login attempt: Email (nonexistent@example.com) not found","timestamp":"2025-03-11T05:33:31.828Z"}
+{"level":"warn","message":"Invalid category used: Electricity","timestamp":"2025-03-15T13:41:18.294Z","user":"67d57cf075a86d94430e95b2"}
+{"level":"warn","message":"Invalid category used: Water","timestamp":"2025-03-15T13:42:32.343Z","user":"67d57cf075a86d94430e95b2"}
+{"error":"Budget validation failed: amount: Amount must be a positive number","level":"error","message":"Server error during budget creation","timestamp":"2025-03-16T02:14:51.454Z","user":"67d57cf075a86d94430e95b2"}
+{"allowedCategories":["Food","Rent","Transport","Entertainment"],"category":"d","level":"warn","message":"Budget creation failed - Invalid category","timestamp":"2025-03-16T02:16:03.192Z","user":"67d57cf075a86d94430e95b2"}
+{"level":"warn","message":"Failed login attempt: Email (thusala@gmail.com) not found","timestamp":"2025-03-16T06:04:24.333Z"}
+{"level":"warn","message":"Failed login attempt: Email (thusala@gmail.com) not found","timestamp":"2025-03-16T06:05:16.718Z"}
+{"level":"error","message":"System settings not found during transaction creation","timestamp":"2025-03-16T06:19:13.834Z"}
+{"allowedCategories":["Food","Rent","Utilities"],"category":"Transport","level":"warn","message":"Budget creation failed - Invalid category","timestamp":"2025-03-16T06:25:12.989Z","user":"67d66a61ac242073d1c176dc"}
+{"level":"warn","message":"Transaction is already assigned to another budget","timestamp":"2025-03-16T06:31:07.195Z","transactionId":"67d66dd5ac242073d1c17701","user":"67d66a61ac242073d1c176dc"}
+{"level":"warn","message":"Transaction is already assigned to another budget","timestamp":"2025-03-16T06:31:11.394Z","transactionId":"67d66dd5ac242073d1c17701","user":"67d66a61ac242073d1c176dc"}

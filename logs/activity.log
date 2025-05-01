@@ -1,0 +1,99 @@
+{"level":"info","message":"New user registered: admin2@example.com (Role: admin)","timestamp":"2025-03-09T13:39:27.701Z"}
+{"level":"warn","message":"Registration failed: Email (admin2@example.com) already exists","timestamp":"2025-03-09T13:42:46.600Z"}
+{"level":"warn","message":"Registration failed: Email (admin2@example.com) already exists","timestamp":"2025-03-09T13:44:43.963Z"}
+{"level":"info","message":"User logged in: thusala@gmail.com (Role: user)","timestamp":"2025-03-10T05:00:37.803Z"}
+{"level":"warn","message":"Transaction deletion failed: Transaction not found (67be9056a146ea890a3fcfb2)","timestamp":"2025-03-10T05:02:40.082Z","user":"67bad469140f79544369eec4"}
+{"level":"info","message":"Transaction deleted successfully","timestamp":"2025-03-10T05:03:04.111Z","transactionId":"67c56e1f7cb35aa8be77cd64","user":"67bad469140f79544369eec4"}
+{"level":"info","message":"New user registered: testuser@example.com (Role: user)","timestamp":"2025-03-11T05:04:05.438Z"}
+{"level":"info","message":"New user registered: testuser@example.com (Role: user)","timestamp":"2025-03-11T05:04:05.482Z"}
+{"level":"warn","message":"Failed login attempt: Email (testuser@example.com) not found","timestamp":"2025-03-11T05:04:05.505Z"}
+{"level":"warn","message":"Failed login attempt: Email (testuser@example.com) not found","timestamp":"2025-03-11T05:04:05.522Z"}
+{"level":"warn","message":"Failed login attempt: Email (nonexistent@example.com) not found","timestamp":"2025-03-11T05:04:05.538Z"}
+{"level":"info","message":"New user registered: admin@example.com (Role: admin)","timestamp":"2025-03-11T05:15:44.906Z"}
+{"level":"warn","message":"Registration failed: Email (admin@example.com) already exists","timestamp":"2025-03-11T05:17:50.228Z"}
+{"level":"info","message":"New user registered: testuser@example.com (Role: user)","timestamp":"2025-03-11T05:19:57.765Z"}
+{"level":"info","message":"New user registered: testuser@example.com (Role: user)","timestamp":"2025-03-11T05:19:57.795Z"}
+{"level":"warn","message":"Failed login attempt: Email (testuser@example.com) not found","timestamp":"2025-03-11T05:19:57.836Z"}
+{"level":"warn","message":"Failed login attempt: Email (testuser@example.com) not found","timestamp":"2025-03-11T05:19:57.852Z"}
+{"level":"warn","message":"Failed login attempt: Email (nonexistent@example.com) not found","timestamp":"2025-03-11T05:19:57.866Z"}
+{"level":"info","message":"New user registered: testuser@example.com (Role: user)","timestamp":"2025-03-11T05:22:26.505Z"}
+{"level":"info","message":"New user registered: testuser@example.com (Role: user)","timestamp":"2025-03-11T05:22:26.528Z"}
+{"level":"warn","message":"Failed login attempt: Email (testuser@example.com) not found","timestamp":"2025-03-11T05:22:26.548Z"}
+{"level":"warn","message":"Failed login attempt: Email (testuser@example.com) not found","timestamp":"2025-03-11T05:22:26.562Z"}
+{"level":"warn","message":"Failed login attempt: Email (nonexistent@example.com) not found","timestamp":"2025-03-11T05:22:26.578Z"}
+{"level":"info","message":"New user registered: testuser@example.com (Role: user)","timestamp":"2025-03-11T05:23:07.087Z"}
+{"level":"info","message":"New user registered: testuser@example.com (Role: user)","timestamp":"2025-03-11T05:23:07.116Z"}
+{"level":"warn","message":"Failed login attempt: Email (testuser@example.com) not found","timestamp":"2025-03-11T05:23:07.138Z"}
+{"level":"warn","message":"Failed login attempt: Email (testuser@example.com) not found","timestamp":"2025-03-11T05:23:07.153Z"}
+{"level":"warn","message":"Failed login attempt: Email (nonexistent@example.com) not found","timestamp":"2025-03-11T05:23:07.168Z"}
+{"level":"info","message":"New user registered: testuser@example.com (Role: user)","timestamp":"2025-03-11T05:24:26.927Z"}
+{"level":"info","message":"New user registered: testuser@example.com (Role: user)","timestamp":"2025-03-11T05:24:26.997Z"}
+{"level":"warn","message":"Failed login attempt: Email (testuser@example.com) not found","timestamp":"2025-03-11T05:24:27.018Z"}
+{"level":"warn","message":"Failed login attempt: Email (testuser@example.com) not found","timestamp":"2025-03-11T05:24:27.032Z"}
+{"level":"warn","message":"Failed login attempt: Email (nonexistent@example.com) not found","timestamp":"2025-03-11T05:24:27.047Z"}
+{"level":"warn","message":"Failed login attempt: Email (thusala@gmail.com) not found","timestamp":"2025-03-11T05:27:09.623Z"}
+{"level":"info","message":"New user registered: testuser@example.com (Role: user)","timestamp":"2025-03-11T05:29:37.685Z"}
+{"level":"info","message":"New user registered: testuser@example.com (Role: user)","timestamp":"2025-03-11T05:29:37.708Z"}
+{"level":"info","message":"New user registered: testuser@example.com (Role: user)","timestamp":"2025-03-11T05:29:37.726Z"}
+{"level":"info","message":"New user registered: testuser@example.com (Role: user)","timestamp":"2025-03-11T05:29:37.749Z"}
+{"level":"warn","message":"Failed login attempt: Email (testuser@example.com) not found","timestamp":"2025-03-11T05:29:37.763Z"}
+{"level":"info","message":"New user registered: testuser@example.com (Role: user)","timestamp":"2025-03-11T05:29:37.778Z"}
+{"level":"warn","message":"Failed login attempt: Email (testuser@example.com) not found","timestamp":"2025-03-11T05:29:37.789Z"}
+{"level":"warn","message":"Failed login attempt: Email (nonexistent@example.com) not found","timestamp":"2025-03-11T05:29:37.802Z"}
+{"level":"info","message":"New user registered: testuser@example.com (Role: user)","timestamp":"2025-03-11T05:32:36.860Z"}
+{"level":"info","message":"New user registered: testuser@example.com (Role: user)","timestamp":"2025-03-11T05:32:36.884Z"}
+{"level":"info","message":"New user registered: testuser@example.com (Role: user)","timestamp":"2025-03-11T05:32:36.901Z"}
+{"level":"info","message":"New user registered: testuser@example.com (Role: user)","timestamp":"2025-03-11T05:32:36.913Z"}
+{"level":"info","message":"New user registered: testuser@example.com (Role: user)","timestamp":"2025-03-11T05:32:36.934Z"}
+{"level":"warn","message":"Failed login attempt: Email (testuser@example.com) not found","timestamp":"2025-03-11T05:32:36.945Z"}
+{"level":"info","message":"New user registered: testuser@example.com (Role: user)","timestamp":"2025-03-11T05:32:36.960Z"}
+{"level":"warn","message":"Failed login attempt: Email (testuser@example.com) not found","timestamp":"2025-03-11T05:32:36.971Z"}
+{"level":"warn","message":"Failed login attempt: Email (nonexistent@example.com) not found","timestamp":"2025-03-11T05:32:36.984Z"}
+{"level":"info","message":"New user registered: testuser@example.com (Role: user)","timestamp":"2025-03-11T05:33:31.702Z"}
+{"level":"info","message":"New user registered: testuser@example.com (Role: user)","timestamp":"2025-03-11T05:33:31.730Z"}
+{"level":"info","message":"New user registered: testuser@example.com (Role: user)","timestamp":"2025-03-11T05:33:31.748Z"}
+{"level":"info","message":"New user registered: testuser@example.com (Role: user)","timestamp":"2025-03-11T05:33:31.772Z"}
+{"level":"warn","message":"Failed login attempt: Email (testuser@example.com) not found","timestamp":"2025-03-11T05:33:31.786Z"}
+{"level":"info","message":"New user registered: testuser@example.com (Role: user)","timestamp":"2025-03-11T05:33:31.801Z"}
+{"level":"warn","message":"Failed login attempt: Email (testuser@example.com) not found","timestamp":"2025-03-11T05:33:31.813Z"}
+{"level":"warn","message":"Failed login attempt: Email (nonexistent@example.com) not found","timestamp":"2025-03-11T05:33:31.828Z"}
+{"level":"info","message":"New user registered: thusala@gmail.com (Role: user)","timestamp":"2025-03-15T13:13:20.748Z"}
+{"level":"info","message":"User logged in: thusala@gmail.com (Role: user)","timestamp":"2025-03-15T13:16:43.062Z"}
+{"level":"info","message":"User logged in: admin@example.com (Role: admin)","timestamp":"2025-03-15T13:38:51.582Z"}
+{"level":"info","message":"User updated successfully: 67d57cf075a86d94430e95b2","timestamp":"2025-03-15T13:39:51.284Z","updatedFields":{"role":"user"}}
+{"level":"info","message":"User logged in: thusala@gmail.com (Role: user)","timestamp":"2025-03-15T13:40:35.079Z"}
+{"level":"warn","message":"Invalid category used: Electricity","timestamp":"2025-03-15T13:41:18.294Z","user":"67d57cf075a86d94430e95b2"}
+{"level":"info","message":"Transaction created successfully","timestamp":"2025-03-15T13:41:45.728Z","transactionId":"67d5839975a86d94430e95d2","user":"67d57cf075a86d94430e95b2"}
+{"level":"warn","message":"Invalid category used: Water","timestamp":"2025-03-15T13:42:32.343Z","user":"67d57cf075a86d94430e95b2"}
+{"level":"info","message":"Transaction created successfully","timestamp":"2025-03-15T13:42:45.569Z","transactionId":"67d583d575a86d94430e95db","user":"67d57cf075a86d94430e95b2"}
+{"budget":[{"amount":300,"currency":"EUR","id":"67d5848475a86d94430e95f3","name":"Entertainment Budget"}],"level":"info","message":"Budget created successfully","timestamp":"2025-03-15T13:45:40.760Z","user":"67d57cf075a86d94430e95b2"}
+{"error":"Budget validation failed: amount: Amount must be a positive number","level":"error","message":"Server error during budget creation","timestamp":"2025-03-16T02:14:51.454Z","user":"67d57cf075a86d94430e95b2"}
+{"budget":[{"amount":500,"currency":"EUR","id":"67d634365bc548d319acc06a","name":"Food Budget - 2025-01"},{"amount":500,"currency":"EUR","id":"67d634365bc548d319acc06b","name":"Food Budget - 2025-02"},{"amount":500,"currency":"EUR","id":"67d634365bc548d319acc06c","name":"Food Budget - 2025-03"},{"amount":500,"currency":"EUR","id":"67d634365bc548d319acc06d","name":"Food Budget - 2025-04"},{"amount":500,"currency":"EUR","id":"67d634365bc548d319acc06e","name":"Food Budget - 2025-05"},{"amount":500,"currency":"EUR","id":"67d634365bc548d319acc06f","name":"Food Budget - 2025-06"},{"amount":500,"currency":"EUR","id":"67d634365bc548d319acc070","name":"Food Budget - 2025-07"},{"amount":500,"currency":"EUR","id":"67d634365bc548d319acc071","name":"Food Budget - 2025-08"},{"amount":500,"currency":"EUR","id":"67d634365bc548d319acc072","name":"Food Budget - 2025-09"},{"amount":500,"currency":"EUR","id":"67d634365bc548d319acc073","name":"Food Budget - 2025-10"},{"amount":500,"currency":"EUR","id":"67d634365bc548d319acc074","name":"Food Budget - 2025-11"},{"amount":500,"currency":"EUR","id":"67d634365bc548d319acc075","name":"Food Budget - 2025-12"}],"level":"info","message":"Budget created successfully","timestamp":"2025-03-16T02:15:18.355Z","user":"67d57cf075a86d94430e95b2"}
+{"allowedCategories":["Food","Rent","Transport","Entertainment"],"category":"d","level":"warn","message":"Budget creation failed - Invalid category","timestamp":"2025-03-16T02:16:03.192Z","user":"67d57cf075a86d94430e95b2"}
+{"budget":[{"amount":300,"currency":"LKR","id":"67d6348d5bc548d319acc07d","name":"Transport Budget"}],"level":"info","message":"Budget created successfully","timestamp":"2025-03-16T02:16:45.585Z","user":"67d57cf075a86d94430e95b2"}
+{"level":"warn","message":"Failed login attempt: Email (thusala@gmail.com) not found","timestamp":"2025-03-16T06:04:24.333Z"}
+{"level":"warn","message":"Failed login attempt: Email (thusala@gmail.com) not found","timestamp":"2025-03-16T06:05:16.718Z"}
+{"level":"info","message":"New user registered: thusala@gmail.com (Role: user)","timestamp":"2025-03-16T06:06:26.160Z"}
+{"level":"info","message":"User logged in: thusala@gmail.com (Role: user)","timestamp":"2025-03-16T06:06:31.884Z"}
+{"level":"info","message":"New user registered: admin@example.com (Role: admin)","timestamp":"2025-03-16T06:08:39.179Z"}
+{"level":"info","message":"User logged in: admin@example.com (Role: admin)","timestamp":"2025-03-16T06:08:57.647Z"}
+{"level":"error","message":"System settings not found during transaction creation","timestamp":"2025-03-16T06:19:13.834Z"}
+{"level":"info","message":"Transaction created successfully","timestamp":"2025-03-16T06:20:37.968Z","transactionId":"67d66db5ac242073d1c176fb","user":"67d66a61ac242073d1c176dc"}
+{"level":"info","message":"Transaction created successfully","timestamp":"2025-03-16T06:21:09.471Z","transactionId":"67d66dd5ac242073d1c17701","user":"67d66a61ac242073d1c176dc"}
+{"level":"info","message":"Transaction created successfully","timestamp":"2025-03-16T06:21:15.521Z","transactionId":"67d66ddbac242073d1c17708","user":"67d66a61ac242073d1c176dc"}
+{"level":"info","message":"Transaction created successfully","timestamp":"2025-03-16T06:21:53.382Z","transactionId":"67d66e01ac242073d1c17712","user":"67d66a61ac242073d1c176dc"}
+{"allowedCategories":["Food","Rent","Utilities"],"category":"Transport","level":"warn","message":"Budget creation failed - Invalid category","timestamp":"2025-03-16T06:25:12.989Z","user":"67d66a61ac242073d1c176dc"}
+{"budget":[{"amount":300,"currency":"LKR","id":"67d66ed1ac242073d1c1772f","name":"New Budget"}],"level":"info","message":"Budget created successfully","timestamp":"2025-03-16T06:25:21.798Z","user":"67d66a61ac242073d1c176dc"}
+{"budget":[{"amount":500,"currency":"USD","id":"67d66edcac242073d1c17734","name":"Food Budget - 2025-01"},{"amount":500,"currency":"USD","id":"67d66edcac242073d1c17735","name":"Food Budget - 2025-02"},{"amount":500,"currency":"USD","id":"67d66edcac242073d1c17736","name":"Food Budget - 2025-03"},{"amount":500,"currency":"USD","id":"67d66edcac242073d1c17737","name":"Food Budget - 2025-04"},{"amount":500,"currency":"USD","id":"67d66edcac242073d1c17738","name":"Food Budget - 2025-05"},{"amount":500,"currency":"USD","id":"67d66edcac242073d1c17739","name":"Food Budget - 2025-06"},{"amount":500,"currency":"USD","id":"67d66edcac242073d1c1773a","name":"Food Budget - 2025-07"},{"amount":500,"currency":"USD","id":"67d66edcac242073d1c1773b","name":"Food Budget - 2025-08"},{"amount":500,"currency":"USD","id":"67d66edcac242073d1c1773c","name":"Food Budget - 2025-09"},{"amount":500,"currency":"USD","id":"67d66edcac242073d1c1773d","name":"Food Budget - 2025-10"},{"amount":500,"currency":"USD","id":"67d66edcac242073d1c1773e","name":"Food Budget - 2025-11"},{"amount":500,"currency":"USD","id":"67d66edcac242073d1c1773f","name":"Food Budget - 2025-12"}],"level":"info","message":"Budget created successfully","timestamp":"2025-03-16T06:25:32.958Z","user":"67d66a61ac242073d1c176dc"}
+{"budgetId":"67d66ed1ac242073d1c1772f","level":"info","message":"Budget updated successfully","timestamp":"2025-03-16T06:26:26.308Z","user":"67d66a61ac242073d1c176dc"}
+{"budgetId":"67d66ed1ac242073d1c1772f","level":"info","message":"Budget updated successfully","timestamp":"2025-03-16T06:26:43.922Z","user":"67d66a61ac242073d1c176dc"}
+{"budget":[{"amount":300,"currency":"USD","id":"67d66f7cac242073d1c17752","name":"New Budget"}],"level":"info","message":"Budget created successfully","timestamp":"2025-03-16T06:28:12.295Z","user":"67d66a61ac242073d1c176dc"}
+{"budgetId":"67d66f7cac242073d1c17752","level":"info","message":"Transaction added to budget","timestamp":"2025-03-16T06:28:26.947Z","transactionId":"67d66dd5ac242073d1c17701","user":"67d66a61ac242073d1c176dc"}
+{"budgetId":"67d66f7cac242073d1c17752","level":"info","message":"Transaction added to budget","timestamp":"2025-03-16T06:29:24.487Z","transactionId":"67d66dd5ac242073d1c17701","user":"67d66a61ac242073d1c176dc"}
+{"budgetId":"67d66ed1ac242073d1c1772f","level":"info","message":"Transaction added to budget","timestamp":"2025-03-16T06:30:48.454Z","transactionId":"67d66dd5ac242073d1c17701","user":"67d66a61ac242073d1c176dc"}
+{"level":"warn","message":"Transaction is already assigned to another budget","timestamp":"2025-03-16T06:31:07.195Z","transactionId":"67d66dd5ac242073d1c17701","user":"67d66a61ac242073d1c176dc"}
+{"level":"warn","message":"Transaction is already assigned to another budget","timestamp":"2025-03-16T06:31:11.394Z","transactionId":"67d66dd5ac242073d1c17701","user":"67d66a61ac242073d1c176dc"}
+{"goalId":"67d6709eac242073d1c17794","level":"info","message":"Goal created successfully","timestamp":"2025-03-16T06:33:02.703Z","user":"67d66a61ac242073d1c176dc"}
+{"goalId":"67d6709eac242073d1c17794","level":"info","message":"Goal updated successfully","timestamp":"2025-03-16T06:33:43.692Z","user":"67d66a61ac242073d1c176dc"}
+{"level":"info","message":"New user registered: admin2@example.com (Role: user)","timestamp":"2025-03-16T07:52:24.816Z"}
+{"level":"info","message":"User logged in: admin2@example.com (Role: user)","timestamp":"2025-03-16T07:52:36.172Z"}
